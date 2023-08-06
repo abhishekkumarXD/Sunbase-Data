@@ -5,8 +5,11 @@
 This is the backend implementation for the Customer Management System project. It provides REST API endpoints for managing customer records. The backend is developed using Java with Spring Boot framework.
 ### Screenshots
 Screenshots of the API endpoints being hit:
-- **Login Page**: <br>
-![image](https://github.com/abhishekkumarXD/Sunbase-Data/assets/95921032/eec31d22-3ef3-4c4c-830f-42242ff6453a)
+- **Login screen**: <br>
+![image](https://github.com/abhishekkumarXD/Sunbase-Data/assets/95921032/d4db0bcd-876d-4c43-a7c4-f7bf4515d23c)
+
+- **Add Customer Details screen**: <br>
+  ![image](https://github.com/abhishekkumarXD/Sunbase-Data/assets/95921032/5e5024a6-4e13-4238-87e3-5d6e11cf1112)
 
 - **Authenticate User**: <br>
   ![auth](https://github.com/abhishekkumarXD/Sunbase-Data/assets/95921032/9850d693-7c7f-47e5-8fb9-a0cc8ba01de3)
